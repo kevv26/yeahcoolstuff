@@ -34,7 +34,4 @@ h2 {
     }
 }
 
-h1:hover { animation: color-change 3s infinite; }
-p:hover { animation: color-change 3s infinite; }
-h2:hover { animation: color-change 3s infinite; }
-ol:hover { animation: color-change 3s infinite; }
+h1:hover { animation: color-change 1000s infinite; }
